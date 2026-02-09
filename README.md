@@ -69,5 +69,3 @@ All solutions and implementations are my own work, developed as part of the MOOC
 **Jussara Vieira**  
 GitHub: https://github.com/JussaraSilvia
 
-## 🗂 Repository structure
-
